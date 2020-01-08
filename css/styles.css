@@ -243,8 +243,16 @@ a:hover{
     height: 75%;
   }
   
+  .big-heading{
+
+    padding-top: 0;
+
+  }
+  
+  /*
   .title-image {
     position: static;
     transform: rotate(0);
   }
+  */
 }
